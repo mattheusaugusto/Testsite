@@ -1,0 +1,2 @@
+var -> Palavra reservada para declarção de variavel.
+typeof -> Mostra o tipo de variavel da variavel.
